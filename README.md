@@ -11,7 +11,12 @@ Word2Vec using Skipgram model:
 -t-SNE dimensionality reduction technique was used for visualization of the learned embedding.
 
 
+
+
+
 INPUT TEXT:
+
+
 Kaleem is a good boy.
 
 
