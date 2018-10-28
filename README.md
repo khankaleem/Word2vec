@@ -9,7 +9,8 @@ Loss Function: The Noise-contrastive estimation(NCE) loss function.
 Visualization: t-SNE dimensionality reduction technique.
 
 
-Visualization:
+Example:
+
 
 Training data:
 Kaleem is a good boy.
