@@ -1,13 +1,12 @@
 #Word2Vec using Skipgram model
 ===
-#A Skip-gram model to learn word embeddings.
----
-#Framework: Tensorflow. 
----
-#Loss Function: The Noise-contrastive estimation(NCE) loss function. 
----
-#Visualization: t-SNE dimensionality reduction technique.
----
+A Skip-gram model to learn word embeddings.
+
+Framework: Tensorflow. 
+
+Loss Function: The Noise-contrastive estimation(NCE) loss function. 
+
+Visualization: t-SNE dimensionality reduction technique.
 
 
 Visualization:
